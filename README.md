@@ -41,13 +41,13 @@ Desenvolver uma `API REST` que contemple as seguintes operações nos respectivo
 
 1. Clone ou baixe o projeto do repositório no seu `Workspace`.
 
-2. Navegue até a raíz do seu diretório e `execute no terminal` o comando `mvnw spring-boot:run`. Este comando executará o servidor em `http://localhost` na porta 80 e fará a migração automatizada das tabelas `SQL`, juntamente com os dados de teste para o banco em memória H2.
+2. Navegue até a raíz do seu diretório e `execute no terminal` o comando `mvnw spring-boot:run`. Este comando executará o servidor em `http://localhost` na porta `80` e fará a migração automatizada das tabelas `SQL`, juntamente com os dados de teste para o banco em memória H2.
 
 3. Navegue até `http://localhost` e estará disponível a documentação da `API` juntamente com os `Endpoints` para teste.
 
 
 ### Build em execução
-Se preferir, você ler a documentação da `API` ou testar os `Endpoints` no endereço abaixo:
+Se preferir, você ler a documentação da `API` ou testar os `Endpoints` no endereço :
 <a href="http://162.241.48.158:8080" target="_blank" alt="Swagger documentação">`DOCUMENTAÇÃO DA API-REST`</a>
 
 <hr>
@@ -59,7 +59,7 @@ Se preferir, você ler a documentação da `API` ou testar os `Endpoints` no end
 <hr>
 
 
-#### Observações
+### Observações
   
 1. Por padrão, deixei configurado o banco em memória H2 para fins de execução rápida e testes. 
 
