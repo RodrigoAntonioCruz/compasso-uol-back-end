@@ -41,9 +41,9 @@ Desenvolver uma `API REST` que contemple as seguintes operações nos respectivo
 
 1. Clone ou baixe o projeto do repositório no seu `Workspace`.
 
-2. Navegue até a raíz do seu diretório e `execute no terminal` o comando `mvnw spring-boot:run`. Este comando executará o servidor em `http://localhost` na porta `80` e fará a migração automatizada das tabelas `SQL`, juntamente com os dados de teste para o banco em memória H2.
+2. Navegue até a raíz do seu diretório e `execute via terminal` o comando `mvnw spring-boot:run`. Este comando executará o servidor em `http://localhost` na porta `80` e fará a migração automatizada das tabelas `SQL`, juntamente com os dados de teste para o banco em memória H2.
 
-3. Navegue até `http://localhost` e estará disponível a documentação da `API` juntamente com os `Endpoints` para teste.
+3. Abra seu browser e navegue até `http://localhost` que estará disponível a documentação da `API` juntamente com os `Endpoints` para teste.
 
 
 ### Build em execução
