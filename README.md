@@ -62,7 +62,7 @@ Desenvolver uma `API REST` que contemple as seguintes operações nos respectivo
 
 ### Build em execução
 Se preferir, você ler a documentação da `API` ou testar os `Endpoints` no endereço :
-<a href="http://162.241.48.158:8080" target="_blank" alt="Swagger documentação">`DOCUMENTAÇÃO DA API-REST`</a>
+<a href="http://api.compasso.rodrigodacruz.com.br:8080" target="_blank" alt="Swagger documentação">`DOCUMENTAÇÃO DA API-REST`</a>
 
 <hr>
 
