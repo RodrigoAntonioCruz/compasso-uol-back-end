@@ -50,8 +50,8 @@ public class ClienteService {
 	 */
 	public List<Cliente> filtrarCliente(String parametro) {
 		GenericSpesification<Cliente> genericSpesification = new GenericSpesification<Cliente>();
-		boolean Obj = parametro.matches("^[a-zA-ZÁÂÃÀÇÉÊÍÓÔÕÚÜáâãàçéêíóôõúü]*$");
-		genericSpesification.add(new SearchCriteria(Obj ? "nome" : "id", parametro, Obj ? SearchOperation.MATCH : SearchOperation.EQUAL));
+		boolean obj = parametro.matches("^[a-zA-ZÁÂÃÀÇÉÊÍÓÔÕÚÜáâãàçéêíóôõúü]*$");
+		genericSpesification.add(new SearchCriteria(obj ? "nome" : "id", parametro, obj ? SearchOperation.MATCH : SearchOperation.EQUAL));
 		return clienteRepository.findAll(genericSpesification);
 	}
 
