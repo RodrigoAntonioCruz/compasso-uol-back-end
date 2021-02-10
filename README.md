@@ -49,7 +49,7 @@ Desenvolver uma `API REST` que contemple as seguintes operações nos respectivo
 
 ### Executando os Testes
 
-1.Navegue até a raíz do seu diretório e `execute via terminal` o comando `mvnw clean test`. Este comando executará todos os casos de teste, resultando em:
+1. Navegue até a raíz do seu diretório e `execute via terminal` o comando `mvnw clean test`. Este comando executará todos os casos de teste, resultando em:
 
 <hr>
 
