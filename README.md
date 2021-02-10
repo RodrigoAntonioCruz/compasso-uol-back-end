@@ -34,6 +34,7 @@ Desenvolver uma `API REST` que contemple as seguintes operações nos respectivo
   <li> FlyWayDB
   <li> Swagger
   <li> Validation
+  <li> JUnit
 </ul>
 
 
@@ -44,6 +45,19 @@ Desenvolver uma `API REST` que contemple as seguintes operações nos respectivo
 2. Navegue até a raíz do seu diretório e `execute via terminal` o comando `mvnw spring-boot:run`. Este comando executará o servidor em `http://localhost` na porta `80` e fará a migração automatizada das tabelas `SQL`, juntamente com os dados de teste para o banco em memória H2.
 
 3. Abra seu browser e navegue até `http://localhost` que estará disponível a documentação da `API` juntamente com os `Endpoints` para teste.
+
+
+### Executando os Testes
+
+1.Navegue até a raíz do seu diretório e `execute via terminal` o comando `mvnw clean test`. Este comando executará todos os casos de teste, resultando em:
+
+<hr>
+
+<p align="center">
+  <img align="center" alt="Testes" src="https://githubfinder.compasso.rodrigodacruz.com.br/static/test.png" />
+</p>
+
+<hr>
 
 
 ### Build em execução
