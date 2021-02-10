@@ -39,7 +39,7 @@ INSERT INTO `cidade` (`id`, `nome`, `estado`) VALUES
 CREATE TABLE `cliente` (
   `id` bigint(20) NOT NULL,
   `nome` varchar(155) NOT NULL,
-  `idade` int(20) NOT NULL,
+  `idade` varchar(50) NOT NULL,
   `data_nascimento` date NOT NULL,
   `sexo` varchar(10) NOT NULL,
   `cidade_id` bigint(20) DEFAULT NULL
