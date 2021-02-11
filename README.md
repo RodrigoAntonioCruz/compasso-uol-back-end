@@ -23,7 +23,7 @@ Desenvolver uma `API REST` que contemple as seguintes operações nos respectivo
 </ul>
 
 
-<h4>Tecnologias Usadas</h4>
+<h4>Tecnologias</h4>
 <ul>
   <li> Java 8
   <li> Spring Boot 
