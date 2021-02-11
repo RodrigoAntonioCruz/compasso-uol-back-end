@@ -73,7 +73,7 @@ Se preferir, você ler a documentação da `API` ou testar os `Endpoints` no end
 <hr>
 
 
-### Observações(Somente se for aplicar outros `perfis` de `dev` ou `prod` com uma base de dados externa e versionamento)
+### Considerações finais
   
 1. Por padrão, deixei configurado o banco em memória H2 para fins de execução rápida e testes. 
 
