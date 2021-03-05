@@ -57,30 +57,8 @@ Desenvolver uma `API REST` que contemple as seguintes operações nos respectivo
   <img align="center" alt="Testes" src="https://githubfinder.compasso.rodrigodacruz.com.br/static/test.png" />
 </p>
 
-<hr>
-
-
-### Build em execução
-Se preferir, você ler a documentação da `API` ou testar os `Endpoints` no endereço :
-<a href="http://api.compasso.rodrigodacruz.com.br:8080" target="_blank" alt="Swagger documentação">`DOCUMENTAÇÃO DA API-REST`</a>
-
-<hr>
+### Captura de Tela
 
 <p align="center">
   <img align="center" alt="Swagger" src="https://githubfinder.compasso.rodrigodacruz.com.br/static/swager.png" />
 </p>
-
-<hr>
-
-
-### Considerações finais
-  
-1. Por padrão, deixei configurado o banco em memória H2 para fins de execução rápida e testes. 
-
-2. A `API` está preparada para trabalhar com bancos externos e `versionamento de banco de dados`.
-
-3. Existem três tipos de `PERFILS` de acesso, são eles: `test` para testes, `dev` para desenvolvimento, `prod` para produção.
-
-4. Para configurar um perfil de acesso navegue até o diretório `src/main/resources/`, abra o arquivo `application.properties` e configure com `test`, `dev` ou  `prod`
-
-4. Para configurar os dados de acesso de banco de dados externos, como desenvolvimento ou produção, os arquivos de configuração são os seguintes: `application.properties.dev` para desenvolvimento, de produção no arquivo `application.properties.prod` 
