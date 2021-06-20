@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="center" alt="Logo UOL" src="https://githubfinder.compasso.rodrigodacruz.com.br/static/LogoUol.png" />
+  <img align="center" alt="Logo UOL" src="https://compasso.com.br/wp-content/uploads/2020/07/LogoCompasso-Negativo.png" />
 </p>
 
 <h2 align="center">
@@ -54,11 +54,11 @@ Desenvolver uma `API REST` que contemple as seguintes operações nos respectivo
 <hr>
 
 <p align="center">
-  <img align="center" alt="Testes" src="https://githubfinder.compasso.rodrigodacruz.com.br/static/test.png" />
+  <img align="center" alt="Testes" src="https://raw.githubusercontent.com/RodrigoAntonioCruz/assets/main/test.png" />
 </p>
 
 ### Captura de Tela
 
 <p align="center">
-  <img align="center" alt="Swagger" src="https://githubfinder.compasso.rodrigodacruz.com.br/static/swager.png" />
+  <img align="center" alt="Swagger" src="https://raw.githubusercontent.com/RodrigoAntonioCruz/assets/main/swager.png" />
 </p>
